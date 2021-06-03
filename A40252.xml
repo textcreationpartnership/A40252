@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small treatise concerning swearing in the old time of the law, with its use and an end put to it in the Gospel by Jesus Christ, who forbiddeth all swearing, and sets up yea and nay instead thereof. By G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40252</idno><idno type="EEBO-CITATION">99831669</idno>
+  <idno type="VID">36134</idno>
+  <idno type="EEBO-PROQUEST">2240917670</idno>
+  
+            <idno type="STC">Wing F1906</idno>
+            <idno type="STC">ESTC R220247</idno>
+            <idno type="PROQUEST">99831669</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831669e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36134)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small treatise concerning swearing in the old time of the law, with its use and an end put to it in the Gospel by Jesus Christ, who forbiddeth all swearing, and sets up yea and nay instead thereof. By G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 5 reads: Concerning swearing.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Swearing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36134:1"/>
+            <p>A SMALL TREATISE CONCERNING SWEARING IN THE Old time of the LAW, with its USE; And an END put to it in the GOSPEL BY <hi>JESƲS CHRIST,</hi> Who Forbiddeth all Swearing, and sets up YEA and NAY instead thereof.</p>
+            <p>By <hi>G. FOX.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1675.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:36134:2"/>
+            <pb facs="tcp:36134:2"/>
+            <p>COncern<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Swearing by the Name of the Lord before the Law, and in the Law; its Time, Ʋse, and Service, which was to continue until Christ came, who fulfils the Law, and sayes, <hi>Swear not at all,</hi> and sets up <hi>Yea</hi> and <hi>Nay</hi> instead of it.</p>
+            <p>And how all False and Vain Swearing was forbidden by the Law, and All Swearing is for<g ref="char:EOLhyphen"/>bidden by Christ, yea, the Oath of the Lord which was to end dif<g ref="char:EOLhyphen"/>ferences.</p>
+            <p>And how Christ Performes Gods Oath, and commands <hi>Yea yea,</hi> and <hi>Nay nay</hi> instead of it.</p>
+            <pb facs="tcp:36134:3"/>
+            <p>And to end the Trespasses and Differences in his Church, he sets up two or three Witnesses; Christ saith, <hi>Out of the mouth of two or three Witnesses every word shall be established,</hi> Mat. <hi>18.16.</hi>
+            </p>
+            <p>And the Apostle saith, <hi>2 Cor. 12.1. In the mouth of two or three Witnesses every word shall be established.</hi>
+            </p>
+            <p>And the Apostle <hi>James,</hi> who forbids Swearing, sayes, <hi>So speak ye, and so do ye,</hi> James the 5th, and <hi>James</hi> the 2d and 12th.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:36134:3"/>
+            <head>Concerning Swearing.</head>
+            <p>VVHerein all may plainly see that they that were to <hi>Swear</hi> it <hi>was to the Lord,</hi> and <hi>perform their Oath to him:</hi> and as for <hi>False Oaths</hi> that they did Swear, they were for<g ref="char:EOLhyphen"/>bidden by the Lord in his Law; and this <hi>Oath</hi> that they were to <hi>perform</hi> to the Lord was the Oath that Christ forbad.</p>
+            <p>For before the Law you may see <hi>A<g ref="char:EOLhyphen"/>braham</hi> said to his Servant, <hi>I will make thee to Swear by the Lord, the God of Heaven, and the God of the Earth,</hi> Gen. 24.</p>
+            <p>So this Swearing was not by any Book, nor any Creature, but by the Lord, <hi>&amp;c.</hi> And this was the Oath which was to be performed to the
+<pb n="6" facs="tcp:36134:4"/> Lord which Christ speaks of and for<g ref="char:EOLhyphen"/>bad, as was commanded in the Law, and not to Swear falsely.</p>
+            <p>And in the time of the Law you may see in <hi>Exod.</hi> 22.11. when there was any matter of Difference amongst the Children of <hi>Israel</hi> about outward things, then the Oath of the Lord should be between them; and this Oath was to end the difference: So still you may see it was the Oath of the Lord, it was not an Oath by the Book, or by any Creature.</p>
+            <p>And this Oath was not to be com<g ref="char:EOLhyphen"/>monly taken, for that was a <hi>taking Gods name in vain,</hi> (as Christians do now) they were not to Swear by the Lord but upon great occasions.</p>
+            <p>Levit. 5. <hi>For if a Soul sin, and hear the voice of Swearing, and is a witness, whether he hath seen or known of it, if if he do not utter it, then he shall bear his iniquity.</hi> So you may see here, how that no man was to Swear, but upon special occasion; whosoever did hear
+<pb n="7" facs="tcp:36134:4"/> any Swearing, if he did not discover it, he was to bear his iniquity: and therefore consider all ye that profess your selves Christians, and the Gospel, what a great iniquity you are in by swearing, and others that hear it, and do not discover it, for such things were to be punished by the Law of God.</p>
+            <p>And now do ye think that the Gos<g ref="char:EOLhyphen"/>pel gives you liberty to belch out so many Oaths? Oh no! for Christ for<g ref="char:EOLhyphen"/>bids in his Gospel, the <hi>true swearing by the Lord,</hi> which was to be performed to him, and to be <hi>taken</hi> but upon <hi>urgent</hi> business to <hi>end Controversies</hi> in the old time of the Law: <hi>That's</hi> the Oath that Christ <hi>Ends,</hi> and sets up <hi>Yea</hi> and <hi>Nay</hi> above it and the Law, and Christ forbad the vain and false swearing. And do ye think that the Jews do not hiss at you, that call your selves Christians in Gospel times, that belch out so many Oaths in your needless talk, when their Law punishes
+<pb n="8" facs="tcp:36134:5"/> all common Swearers, and those that hear Swearing and do not discover it, must bear their iniquity; for this is takeing Gods name in vain, and using swearing, or Oaths in those places which God did not command them; for but upon special occasions, for his Service, and to end Controversies, <hi>&amp;c.</hi> was his oath commanded to be per<g ref="char:EOLhyphen"/>formed to the Lord, which Oath, as I said before, Christ ends &amp; forbids. <hi>For if a soul Swear, pronouncin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with his lips to do good or evil, whatso<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver it be that a man shall pronounce with an oath, and it be hid from him, when he knoweth of it, then he shall be guilty in one of these, he shall confess that he hath sinned in that thing, and he shall bring his Trespass-Offering unto the Lord for his sins,</hi> &amp;c. Levit. 5.</p>
+            <p>So now, if there was an Offering to be offered for the Trespass in swear<g ref="char:EOLhyphen"/>ing needlessly in the old time of the Law, is not Christ the Offering that has ended all Offerings for Trespasses,
+<pb n="9" facs="tcp:36134:5"/> and is an Offering for mans sins and trespasses to be look'd at, and obeyed above all? not that man should tres<g ref="char:EOLhyphen"/>pass more in swearing, and say Christ is offered up for his trespass, and pre<g ref="char:EOLhyphen"/>sume thereby to add fin unto sin.</p>
+            <p>So Christ ends all swearing, and is the Offering that is offered up to the Lord of all true Christians for their sins. And in <hi>Levit.</hi> 19. <hi>Ye shall not swear by my name falsely, neither shall ye pro<g ref="char:EOLhyphen"/>phane the Name of thy God, I am the Lord.</hi>
+            </p>
+            <p>So ye may see here, Swearing falsely was forbidden by the Law of God, and swearing idlely is a prophaning the name of the Lord; for God did nor give his Oath to his people to swear idlely in their customary talk, nor falsely, but to be performed to the Lord upon special occasions; and that is the Oath, as I said before, Christ forbad and ends.</p>
+            <p>And in <hi>Numb.</hi> 30. <hi>If a man did swear an Oath, and bound his soul
+<pb n="10" facs="tcp:36134:6"/> to the Lord with a bond, he was not to break it, but he shall do according to all that hath proceeded out of his mouth, ei<g ref="char:EOLhyphen"/>ther Vows or Oaths.</hi>
+            </p>
+            <p>So here you may see <hi>they were to perform their Oath unto the Lord;</hi> which Oath of the Lord bound their souls as with a bond; and this was the Oath which <hi>Christ, the Oath of God, came to fulfil,</hi> and forbids amongst the Jews, which had this Oath to per<g ref="char:EOLhyphen"/>form to the Lord.</p>
+            <p>And so Christ is the Oath of God, by which all souls of men and women are bound to perform what proceeds out of their mouths at <hi>yea</hi> and <hi>nay</hi> without swearing, and not to break their word which proceeds out of their mouths.</p>
+            <p>And in <hi>Deut.</hi> 6. <hi>It's said, thou shalt fear the Lord thy God, and swear by his Name;</hi> mark, by his name, not by the four books of <hi>Moses,</hi> not by any other Name, but <hi>by the name of the Lord;</hi> not by any Creature,
+<pb n="11" facs="tcp:36134:6"/> but by the name of the Lord: this was the true Oath which was to be performed to the Lord in the Old time, (which as I said before) this was the Oath which Christ forbids, and ends.</p>
+            <p>And in <hi>Deut.</hi> 10. <hi>Thou shalt fear the Lord thy God, and him shalt thou serve, and to him shalt thou cleave, and Swear by his Name:</hi> so not by any o<g ref="char:EOLhyphen"/>ther Name under the whole Heaven, or Book, but by the Name of God, and perform their Oath to him: but this was his peoples swearing; but God sware by himself concerning his Son, who brings people from under this Law that commands swearing, who ends both Law and Swearing: and so what people do now, must be done in the Name of Jesus, at <hi>yea</hi> and <hi>nay;</hi> and they know that <hi>there is no Salvation by any other name under the whole heaven, but by the Name of Je<g ref="char:EOLhyphen"/>sus,</hi> who does fulfil the Oath of God to him and us, that God sware, and ends and forbids the Oath that men
+<pb n="12" facs="tcp:36134:7"/> sware unto God under the Law in the old time: And now commands <hi>yea</hi> and <hi>nay</hi> to be spoken in lieu of an oath, for whatsoever is more than that is evil.</p>
+            <p>And the Apostle saith, <hi>Colos.</hi> 3.17. <hi>Whatsoever ye do in word or in deed, do all in the Name of Jesus Christ,</hi> &amp;c.</p>
+            <p>Now mark, this comprehends all that ever a man does or sayes in word or deed, <hi>it must be done in the Name of Jesus, whose name is above every name.</hi>
+            </p>
+            <p>And in <hi>Joshua</hi> 2. it may be seen how <hi>Rahab</hi> the Harlot, she said unto the Spies, <hi>Now therefore I pray you, swear unto me by the Lord,</hi> &amp;c. so you may see, though she was of another Na<g ref="char:EOLhyphen"/>tion, and a Harlot, yet the Spies did swear unto her by the Lord, according to her desire, &amp; <hi>this Oath was to be per<g ref="char:EOLhyphen"/>formed unto the Lord:</hi> she did not tye them to swear to her by the books of <hi>Moses,</hi> nor desire it, nor by their own customary oaths of her Country, but by <hi>the Lord, which was to be performed
+<pb n="13" facs="tcp:36134:7"/> to the Lord:</hi> and this is the Oath that Christ ends, and sets up <hi>yea</hi> and <hi>nay</hi> instead of it.</p>
+            <p>And in <hi>Joshua</hi> 23. it is said, <hi>That ye come not amongst those Nations,</hi> those that remain among you, <hi>neither make mention of the name of their Gods, nor cause to swear by them:</hi> here you may see it was forbidden to swear by the Gods of other Nations, but only to swear by the Name of the Lord which was the true Oath that Christ ends.</p>
+            <p>So this one Oath by the Lord that people was to swear by his name in the time of the Law, it was a Type of that Oath that the Lord sware con<g ref="char:EOLhyphen"/>cerning his Son, who ends and forbids this true Oath in the old time of the Law, who comes to fulfil the Law, and gathers people into his own name <hi>above every name,</hi> where salvation is; and <hi>commands them, let their yea be yea, and nay nay,</hi> &amp;c. <hi>for whatsoever is more is evil.</hi>
+            </p>
+            <p>And in 1 <hi>Sam.</hi> 19. when <hi>Saul</hi>
+               <pb n="14" facs="tcp:36134:8"/> sware it was by the <hi>Lord,</hi> not by <hi>Books</hi> nor <hi>Creatures.</hi>
+            </p>
+            <p>And in 1 <hi>Sam.</hi> 24. <hi>David</hi> when he sware unto <hi>Saul</hi> it was by the <hi>Lord,</hi> and not by <hi>Books</hi> nor <hi>Creatures,</hi> nor by the Gods of other Nations; and this was the true Oath which was to be performed to the Lord in the old Law which Christ forbids and ends.</p>
+            <p>And in 1 <hi>Sam.</hi> 30. <hi>The young man of Aegypt that was Servant to Ameleck, who said unto David, Swear unto me by God, that thou wilt not kill me, nor de<g ref="char:EOLhyphen"/>liver me unto my Master,</hi> &amp;c.</p>
+            <p>And so here you may see though they were of other Nations. it was in vain to put any Oath to the Jews but the Oath of the Lord, which was to be performed to the Lord in the old Law, which Christ forbids, and ends, and his Apostle <hi>James,</hi> Jam. 5.12.</p>
+            <p>And <hi>Joab</hi> 2 <hi>Sam.</hi> 19. when he <hi>sware to David, it was by the Lord.</hi>
+            </p>
+            <p>And in 1 <hi>Kings</hi> when <hi>David</hi> sware <hi>Bathsheba, That Solomon should reign
+<pb n="15" facs="tcp:36134:8"/> after him it was by the Lord, and when David sware that Shimei should not die,</hi> it was by the Lord, as you may see in 1 <hi>Kings</hi> 2.</p>
+            <p>And when <hi>Solomon</hi> sware it was by the Lord, and when he made <hi>Shimei</hi> to swear it was by the Lord, though he broak it, which was to have been performed to the Lord.</p>
+            <p>And <hi>Solomon</hi> saith in 1 <hi>Kings</hi> 8. <hi>If a man trespass against his neighbour, and he require an oath of him to cause him to swe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, and the Oath come before thy Altar <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this house: then hear thou in Heave<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and judge thy Servants, and condemn the wicked,</hi> &amp;c. So here you may see the Use of the <hi>true Oath,</hi> and Swearing by the Lord, and it was to come before his Altar, in his House; which House, and Oath, and Altar, and Law, has Christ ended and fulfilled; and all these be<g ref="char:EOLhyphen"/>forementioned did not Swear by <hi>Books</hi> or <hi>Creatures,</hi> or any other Name, but by the Lord in the old time, which
+<pb n="16" facs="tcp:36134:9"/>
+               <hi>was to be performed to the Lord.</hi>
+            </p>
+            <p>So this Oath and swearing was to end the trespass; and <hi>Christ comes to end Trespasses, and Swearing,</hi> and the <hi>Oath,</hi> and to blot out <hi>Sins and Tres<g ref="char:EOLhyphen"/>passes,</hi> and sets up Yea and Nay instead of the true Oath which was to be per<g ref="char:EOLhyphen"/>formed to the Lord, and <hi>whatsoever is more is evil.</hi>
+            </p>
+            <p>And in 2 <hi>Chron.</hi> 15. <hi>And they sware unto the Lord with a loud voice,</hi> &amp;c. <hi>and all Judah rejoyced at the Oath which they had sworn with all their hearts,</hi> &amp;c.</p>
+            <p>So here you may see <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ain that swearing was by the Lord, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to the Lord, and not by any Books or Crea<g ref="char:EOLhyphen"/>tures, but only to the Lord, and <hi>to be performed to him,</hi> (which, as I said be<g ref="char:EOLhyphen"/>fore) <hi>this is the Oath which Christ for<g ref="char:EOLhyphen"/>bids and ends.</hi>
+            </p>
+            <p>And <hi>Nebuchadnezzar made Zede<g ref="char:EOLhyphen"/>kiah swear by God,</hi> for he knew that that was the Oath he was to take, and not force him to swear by his own God or Idols, as you may see 2 <hi>Chron.</hi> 36.</p>
+            <pb n="17" facs="tcp:36134:9"/>
+            <p>So this was the true Oath to swear by the Lord, though he did not per<g ref="char:EOLhyphen"/>form it, which Christ ends.</p>
+            <p>And in <hi>Nehem.</hi> 13. <hi>he made the peo<g ref="char:EOLhyphen"/>ple to swear by God, which was the true Oath,</hi> and not to swear by the Books of the Prophets, or <hi>Moses,</hi> or any o<g ref="char:EOLhyphen"/>ther Creatures or name, but <hi>by the li<g ref="char:EOLhyphen"/>ving God, which according to the Law of God was to be performed,</hi> which Christ ends, as I said before.</p>
+            <p>And <hi>David</hi> saith, <hi>he that sweareth to his own hurt, and changeth not,</hi> Psalm 15, and Psalm 36. and the <hi>King shall rejoyce in God, every one that sweareth by him shall glory:</hi> here you may see the Swearing was by the Lord, <hi>who is above all the gods of the earth,</hi> and above all Creatures; so not to swear by Books or Creatures but by the Lord, when there was occasion for the deciding of strife; and though <hi>it be to his own hurt, yet was he to swear to the Lord, that is, just and true, and perform it to the Lord by the command</hi>
+               <pb n="18" facs="tcp:36134:10"/> of the Lord, in his Law in the old time; but this Law of Oaths Christ ends and forbids.</p>
+            <p>And in <hi>Isa.</hi> 45. It's said, <hi>I have sworn by my self, and the word is gone out of my mouth in righteousness and shall not return, that unto me every knee shall bow, and every tongue shall swear.</hi>
+            </p>
+            <p>Now in the time of the Law, <hi>they were to swear by the Lord,</hi> but Christ Jesus, that saith, <hi>swear not at all,</hi> who is the Oath of God; and when he <hi>came,</hi> he fulfilled <hi>Gods Oath,</hi> who saith <hi>swear not at all;</hi> and Gods word and oath did not return, but was fulfilled in Christ, that saith, <hi>swear not at all.</hi>
+            </p>
+            <p>So as it is said in <hi>Isa.</hi> aforesaid <hi>every knee shall bow, and every tongue shall swear;</hi> but the Apostle that Preach'd Christ Jesus and his Gospel, saith in <hi>Rom.</hi> 13. It is written, <hi>as I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.</hi>
+            </p>
+            <p>Now mark, it is not here, <hi>every tongue shall swear,</hi> as it is written in <hi>Isa.</hi>
+               <pb n="19" facs="tcp:36134:10"/> they were to swear in the old time of the Law, but in the time of the Gos<g ref="char:EOLhyphen"/>pel <hi>they shall confess;</hi> for if the Apostle had said, <hi>every tongue shall swear to him,</hi> he had contradicted Christs words, who said <hi>swear not at all,</hi> but <hi>every tongue shall confess to God;</hi> so <hi>not swear by God;</hi> and perform their Oath to the Lord now in the time of the Gospel.</p>
+            <p>So Christ performed Gods Oath, and took away the Oath of God amongst men, that they were to swear by the Lord, and set up <hi>Yea</hi> and <hi>Nay</hi> instead of it.</p>
+            <p>And in <hi>Phil.</hi> it is said to the same purpose, that <hi>at the Name of Jesus e<g ref="char:EOLhyphen"/>very knee shall bow, of things in heaven, and things in earth, and under the earth, and that every tongue shall con<g ref="char:EOLhyphen"/>fess that Jesus Christ is Lord, to the glory of God the Father,</hi> &amp;c.</p>
+            <p>So the Oath of God, that he sware by himself, concerning Christ Jesus, who ends the Oath of God amongst men (to bind them and tye them up
+<pb n="20" facs="tcp:36134:11"/> to God, Christ Jesus ends, and so <hi>eve<g ref="char:EOLhyphen"/>ry tongue comes to confess Jesus Christ,</hi> the Oath of God, who brings men up to God; so that <hi>at the Name of Jesus every knee should bow, of things in Hea<g ref="char:EOLhyphen"/>ven, and things in Earth,</hi> &amp;c.</p>
+            <p>So the Prophet saith every tongue shall swear; but Christ that is greater than the Prophet, sayes, <hi>swear not at all:</hi> and the Apostles that Preach'd him say every tongue shall confess him and his Gospel: so it was swearing to the Lord in the old time of the Law, but confes<g ref="char:EOLhyphen"/>sing to the Lord in the time of the Gos<g ref="char:EOLhyphen"/>pel, as you may see in the Scriptures.</p>
+            <p>And in <hi>Isa.</hi> 47. <hi>Hear this, O house of Jacob, which are called by the name of Israel, and are come out of the waters of Judah, which swear by the name of the Lord, and make mention of the God of Israel, but not in truth nor in righteous<g ref="char:EOLhyphen"/>ness.</hi>
+            </p>
+            <p>So you may see all such swearing, and mentioning of God, <hi>not in truth, nor righteousness,</hi> was declared against in the time of the Law and Prophets.</p>
+            <pb n="21" facs="tcp:36134:11"/>
+            <p>So Christ did not come to fulfil any false thing, but the true Tipes and Shaddows and Figures of him; and the Oath that they were to swear by the Lord, and perform it in truth and righteousness; and this was the Oath that Christ told the Jews, <hi>It was said by them in the old time they were to perform to the Lord, but I say unto you swear not at all:</hi> so here was the old time and the new time, the old time in the Law and Prophets that <hi>command<g ref="char:EOLhyphen"/>ed swearing,</hi> and the new time in Christ and his Gospel that <hi>commands not to swear.</hi>
+            </p>
+            <p>And again <hi>Isa.</hi> saith, in <hi>ch.</hi> 5. <hi>He who ll lesses himself in the earth, shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of Truth.</hi>
+            </p>
+            <p>So you may see here they were to swear still <hi>by the God of Truth</hi> in the old time of the Law and Prophets, and not to swear by any Creatures or Books or any other thing but by the God of
+<pb n="22" facs="tcp:36134:12"/> truth, and perform their Oath to him, according to the Law and Prophets, which, as I said before, was the old time, but Christ in his time and Gos<g ref="char:EOLhyphen"/>pel sayes, <hi>swear not at all,</hi> which was the new time, and Doctrine; to Preach down the Sacrifices, and Altars, and Oaths, and he it is that brings men up to God, and to a farther righteousness than that of the Law: and as <hi>Jerem.</hi> saith, <hi>though they say the Lord liveth, yet surely they swear falsely:</hi> those were them that had the form of the Law and Prophets, but were out of the power, and truth, and righteousness; which were forbidden, and look'd up<g ref="char:EOLhyphen"/>on as false swearers, because their hearts were gone from the Lord.</p>
+            <p>So you may see it was a weighty thing to swear by the Lord, and to perform their oath to the Lord, which this weighty oath; Christ the Sub<g ref="char:EOLhyphen"/>stance, comes to end, who is the oath of God, and sayes, <hi>swear not at all.</hi>
+            </p>
+            <p>So the righteousness of Christ <hi>excels
+<pb n="23" facs="tcp:36134:12"/> &amp; exceeds the righteousness of the Law</hi> and Prophets, and of their Swearing.</p>
+            <p>And again <hi>Jer.</hi> saith in the same <hi>ch. How shall I pardon thee for this, thy Children have forsaken me,</hi> to wit, <hi>the Lord, and have sworn by them that are no Gods.</hi>
+            </p>
+            <p>So you may see here to swear by o<g ref="char:EOLhyphen"/>ther Gods, and to forsake the Lord, it is a Question how it shall be pardoned: so the Oath that was to be sworn, was only by the Lord, and not by other Gods.</p>
+            <p>Now look in Christendom, and see what abundance of pettish, frivolous, foolish, idle Oaths there are amongst them, who are commanded by Christ <hi>not to swear at all,</hi> no not the true Oath; and in the time of the Law it was a question by the Prophet of their pardon, that did not swear by the Lord; &amp; therefore what will become of you, that call your selves Christians, that swear so vainly, when your Master Christ <hi>forbids all swearing.</hi>
+            </p>
+            <pb n="24" facs="tcp:36134:13"/>
+            <p>And in <hi>Jer.</hi> 7. and 9. there he re<g ref="char:EOLhyphen"/>proves them for <hi>swearing falsely, and walking after other Gods.</hi>
+            </p>
+            <p>So you may see, <hi>False Swearers</hi> were reproved in the time of the <hi>Law</hi> and <hi>Prophets,</hi> that was done before Christ came, who came to fulfil the true Oath, that was to be performed to God: Christ, I say did end that, and did perform the Oath of God and fulfil it.</p>
+            <p>And in <hi>Jer.</hi> 12. <hi>The Lord said he would have compassion of his people, and bring every man to his heritage,</hi> &amp;c. <hi>if they will diligently learn the wayes of my people, and swear by my name the Lord liveth, as they had taught my peo<g ref="char:EOLhyphen"/>ple to swear by Baall.</hi>
+            </p>
+            <p>So you may see here the cause of <hi>Israels</hi> Captivity, was <hi>going from Gods wayes, and swearing by Baall,</hi> that they lost their Inheritances and their Land, and therefore if they would come to learn Gods waves, and swear by the name of the Lord, that he lived, and leave swearing by Baal, they should inherit their Land again.</p>
+            <pb n="25" facs="tcp:36134:13"/>
+            <p>So you may see here they were not to swear by <hi>Books</hi> or <hi>Baall,</hi> nor by any <hi>Creature,</hi> nor any other name that would perish, but by the Lord that li<g ref="char:EOLhyphen"/>veth; and this was the true Oath, which was to be performed to the Lord in the old time of the Law and Pro<g ref="char:EOLhyphen"/>phets, but Christ in his time of the Gospel, saith, <hi>Swear not at all.</hi>
+            </p>
+            <p>And again in <hi>Jer.</hi> 23. <hi>Because of Swearing the Land mourns;</hi> may it not be much more said of Christendom, <hi>Because of Swearing Christendom mourns,</hi> because Christ forbids all manner of Swearing, though in the time of the Law and Prophets, they encouraged all true swearing, and forbad vain and false, but Christ forbids all swearing, true, vain, and false.</p>
+            <p>And in <hi>Jer.</hi> 28. you may see <hi>Zede<g ref="char:EOLhyphen"/>kiahs Oath to Jeremiah was, As the Lord lived, he would not put him to death;</hi> so his Oath was not by any <hi>Creature</hi> nor <hi>Books,</hi> nor by <hi>Baall,</hi> nor the Gods of other Nations, but was the true Oath,
+<pb n="26" facs="tcp:36134:14"/> according to the Law and Prophets which was as Christ called it in the old time, <hi>to be performed to the Lord,</hi> but in his new time of the Gospel he saith, <hi>Swear not at all;</hi> and this was the new thing brought to pass, which <hi>made the Jews ears to tingle;</hi> and this is he that said, <hi>Behold, I make all things new:</hi> so <hi>Swearing</hi> was in the old time of the Law; but <hi>Confessing</hi> is in the time of Christ and his Gospel: here is one new thing.</p>
+            <p>And in <hi>Hoseah</hi> 4. by <hi>Swearing, and Lying and Stealing, and committing A<g ref="char:EOLhyphen"/>dultery, they break out, and blood touch<g ref="char:EOLhyphen"/>eth blood,</hi> &amp;c.</p>
+            <p>Such swearing as this the Law and the Prophets was against: Oh ye therefore that profess the everlasting Gospel of the Lord Jesus Christ, let not such things be found amongst you in Christendome, <hi>least blood touch blood.</hi>
+            </p>
+            <p>For such beforementioned were commanded <hi>not to go to Bethaven, nor swear the Lord liveth,</hi> &amp;c.</p>
+            <pb n="27" facs="tcp:36134:14"/>
+            <p>And in <hi>Hosea</hi> 10. <hi>They have spoken words, swearing falsely, in making a Covenant; thus Judgment springs up as Hemlock in the furrows of the Field.</hi>
+            </p>
+            <p>So here you may see the effect of this <hi>False swearing,</hi> and see if a <hi>great crop of this Hemlock</hi> may not be found in Christendom amongst the <hi>False Swear<g ref="char:EOLhyphen"/>ers?</hi> and yet commanded by Christ, <hi>not to Swear at all.</hi>
+            </p>
+            <p>And in <hi>Amos</hi> 8. <hi>They that swear by the sin of Samaria, and say thy God, O Dan, liveth, and the manner of Beer<g ref="char:EOLhyphen"/>sheba liveth, even they shall fall and not rise up again.</hi>
+            </p>
+            <p>Now ye may see the sad Judgment of God, that is upon them that swear by any thing but by the Lord, to whom they were to perform their Oath, which Oath Christ ends by his Com<g ref="char:EOLhyphen"/>mand: Therefore what think you will become of all you that swear by so many things in all Christendom and in the world; for if <hi>they shall fall and not
+<pb n="28" facs="tcp:36134:15"/> rise up again, that swear by the sin of Samaria, and the manner of Beersheba,</hi> which was forbidden by God in the Law and Prophets: therefore, I say, what will become of you Christen<g ref="char:EOLhyphen"/>dome, that swear by so many things, when Christ in his Gospel commands you, <hi>not to swear at all;</hi> Judge your selves.</p>
+            <p>And in <hi>Zeph.</hi> 1. It is said, <hi>Them that worship the Hoast of Heaven, upon the house tops, and them that Worship and Swear by the Lord, and by Mal<g ref="char:EOLhyphen"/>cham.</hi>
+            </p>
+            <p>So here are the False Worshippers, that would Worship and <hi>Swear by the Lord and Malcham,</hi> which was repro<g ref="char:EOLhyphen"/>ved by the Law and Prophets, for they were to <hi>Swear only by the Lord, and Worship and serve him onely, and not the Hoast of Heaven,</hi> the true Oath to the Lord, and perform it, which Oath Christ ends.</p>
+            <p>And therefore you Christians, consi<g ref="char:EOLhyphen"/>der how many sorts of things you swear
+<pb n="29" facs="tcp:36134:15"/> by in Christendom, and by Books and Creatures; which if you were as the true Jews, you must only <hi>Swear by the Lord, and perform it to him, in truth and righteousness,</hi> in which you Swear, and therefore are not you reproved by the Law and Prophets? for Christ is a farther <hi>Righteousness</hi> than the <hi>Law</hi> and <hi>Prophets;</hi> he sayes <hi>Swear not at all,</hi> and Christ is called the <hi>Lord our Righ<g ref="char:EOLhyphen"/>teousness,</hi> and not the righteousness of the Law and the Prophets.</p>
+            <p>And do not you Christians like un<g ref="char:EOLhyphen"/>to those false Jews spoken of here in <hi>Zephaniah,</hi> that <hi>Swear by the Lord and Malcham,</hi> do not you pretend to be the Professors and followers of Christ, that saith <hi>Swear not at all,</hi> and yet are not you found swearing not by the Lord, but by a Book, and many other things, in which you are forbidden <hi>not to swear at all;</hi> so you are neither true to the command of the Lord in the Law, nor to Christ.</p>
+            <p>And in <hi>Zach.</hi> 5. <hi>This is the Curse
+<pb n="30" facs="tcp:36134:16"/> that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off as on this side, according to it, and every one that sweareth, shall be cut off as on that side, according to it. I will bring it forth, saith the Lord of Hosts, and it shall enter into the house of the Thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof, and the stones thereof.</hi>
+            </p>
+            <p>Now consider this all ye Christians in Christendome, do ye think the Lord will not perform what he hath said, and it must <hi>go over the face of the earth, and every one that stealeth, and every one that swears falsely.</hi>
+            </p>
+            <p>Therefore look unto your selves, how this curse of the Lord, how it will consume you that swear? and for<g ref="char:EOLhyphen"/>swear? seeing Christ has commanded <hi>Swear not at all:</hi> and therefore as you love your eternal good, and your Souls, and Christ Jesus, and God, lay away
+<pb n="31" facs="tcp:36134:16"/> all manner of Swearing and Forswear<g ref="char:EOLhyphen"/>ing, and Stealing, as he commands you, that the Blessings may come into <hi>your houses,</hi> and <hi>not the Curse,</hi> for <hi>God will be a swift witness against the Swearer, against the Adulterer, and a<g ref="char:EOLhyphen"/>gainst the false swearer,</hi> &amp;c. <hi>and will come neer to you to Judgment. Mal.</hi> 3.</p>
+            <p>So you may see all false Swearers, and vain Swearers were judged in the time of the Law and Prophets, and the true Swearers, and performers of their Oaths to the Lord was justified, which was in the old time of the Law and Prophets, but in the <hi>new time of Christ,</hi> the new thing brought forth, he saith in his time <hi>Swear not at all;</hi> which makes the Professing Jews, and such like <hi>their ears to tingle.</hi>
+            </p>
+            <p>So you may see clearly by the Law and the Prophets, all swearers and swearing by the creatures, by the gods, and all common vain swearing was forbidden, and that <hi>they were only to swear by the Lord, and perform their
+<pb n="32" facs="tcp:36134:17"/> Oath to him:</hi> nay if they used the form of the Law to swear by the Lord, and did not swear truly, in <hi>Truth and Righteousness,</hi> it was forbidden, and not accepted, except it were in Truth and Righteousness; and that Oath which was to be sworn in Truth and Righteousness according to the Law, Christ the Righteousness of God, that fulfils the righteousness of the law, forbids that Oath, who performs and fulfils the Oath of God, and saith, <hi>Swear not at all.</hi>
+            </p>
+            <p>And Christ saith in <hi>Mat.</hi> 5. <hi>Ye have heard that it hath been said by them of old time, thou shalt not forswear thy self, but shalt perform unto the Lord thine Oaths; but I say unto you, Swear not at all:</hi> mark, <hi>not at all.</hi> Now these words of Christ relate to the Oaths that they were to perform to the Lord, for forswearing and vain Swearing was forbidden by the Law and Prophets; so Christs words cannot relate only to people that forswear themselves <hi>(not
+<pb n="33" facs="tcp:36134:17"/> to swear at all)</hi> but also to such as were to perform their oaths to the Lord, and swear by the Lord; as in the old time was commanded; <hi>not to forswear themselves,</hi> but to <hi>perform their Oath to the Lord;</hi> as you may see in the old time, in <hi>Exod.</hi> 20. and <hi>Lev.</hi> 19. and <hi>Deut.</hi> 5.</p>
+            <p>And now you may see in the New Time, Christ saith, <hi>But I say unto you, Swear not at all:</hi> and what <hi>YOU,</hi> were these? was it not to the multitude of the Jews, and his Disciples that were Jews that he taught upon the Moun<g ref="char:EOLhyphen"/>tain: now by the Law of God and the Prophets, in their old time, they <hi>were not to forswear themselves, but perform their oath to the Lord:</hi> now in Christs <hi>new time,</hi> he saith, <hi>Swear not at all.</hi>
+            </p>
+            <p>So the Pharises and Jews did not then <hi>discern the times and seasons that were in the Fathers hand;</hi> as multi<g ref="char:EOLhyphen"/>tudes of Christians do not now, <hi>Mat.</hi> 16. <hi>Acts</hi> 1.</p>
+            <p>And Christ goes on and sayes,
+<pb n="34" facs="tcp:36134:18"/>
+               <hi>Swear not neither by Heaven, for it is Gods Throne; nor by the Earth, for it is his Footstool; neither by Jerusalem, for it is the City of the great King: neither shalt thou swear by thy Head, because thou canst not make on hair, white, or black; but let your Communication be Yea ye, Nay nay; for whatsoever is more than these cometh of evil.</hi>
+            </p>
+            <p>So as Christ Jesus forbad <hi>Swear not at all,</hi> which relates to the true oath that was to be sworn by the Lord, ac<g ref="char:EOLhyphen"/>cording to the Law in the old time; I say, Christ, that doth fulfil the Oath of God, then he comes and saith, (far<g ref="char:EOLhyphen"/>ther relating to those other Oaths which he particulars) <hi>Neither by Heaven, nor by the Earth, nor by Jeru<g ref="char:EOLhyphen"/>salem, nor by the Head,</hi> &amp;c. and when he hath forbidden the <hi>true Oath,</hi> and all those other <hi>Oaths;</hi> then he teach<g ref="char:EOLhyphen"/>es them what they shall say instead of an Oath, to wit, <hi>Yea yea, Nay nay, and whatsoever is more than these cometh of evil.</hi>
+            </p>
+            <pb n="35" facs="tcp:36134:18"/>
+            <p>Now in the old Bible it is, <hi>but your communication shall be Yea yea, Nay nay, for whatsoever is added more than these, it cometh of evil:</hi> this Christ speaks in respect of Swearing; yea, of that <hi>Oath which was to be performed to the Lord,</hi> as well as all the other Oaths: and he is to be believed, and obeyed; for plainer words than these, cannot be in the Scriptures: and this cannot be meant, that Christ forbids <hi>Swear<g ref="char:EOLhyphen"/>ing only in Communication;</hi> for that was forbidden in the time of the Law; and if the Oath that was commanded to <hi>be performed to the Lord was forbidden</hi> by Christ; then much more <hi>all vain and other Oaths,</hi> which both <hi>Law</hi> and <hi>Gospel</hi> forbid.</p>
+            <p>And Christ saith in <hi>Mat.</hi> 23. <hi>Wo un<g ref="char:EOLhyphen"/>to you blind Guides, which say, Whosover shall swear by the Temple, it is nothing; but whosoever shall swear by the Gold of the Temple, is a Debtor: ye fools and blind; for whether is greater, the Gold, or the Temple that Sanctifies the Gold?</hi>
+            </p>
+            <pb n="36" facs="tcp:36134:19"/>
+            <p>
+               <hi>And whosoever shall swear by the Al<g ref="char:EOLhyphen"/>tar, it is nothing; but whosoever shall swear by the Gift that is upon it, he is guilty: ye fools and blind; for whe<g ref="char:EOLhyphen"/>ther is greater, the Gift, or the Altar that sanctifies the Gift? whoso therefore shall swear by the Altar, swear<g ref="char:EOLhyphen"/>eth by it, and by all things thereon; and and whoso sweareth by the Temple, sweareth by it, and him that dwells therein; and he that sweareth by Hea<g ref="char:EOLhyphen"/>ven, sweareth by the Throne of God, and him that sitteth thereon.</hi>
+            </p>
+            <p>So all the swearing of these fools and blind guides, that guided people to swear so, were not blest by Christ in their doings; but he cryed <hi>Woe a<g ref="char:EOLhyphen"/>gainst them:</hi> and these were the Jews that were to <hi>Swear only to the Lord, and perform their Oath by the Lord:</hi> and what do ye think, do not all them that swear by the Book, swear by them that gave forth the Book, to wit, <hi>God and the Prophets, Christ and his Apo<g ref="char:EOLhyphen"/>stles,</hi> that gave forth the Book, and the things therein contained.</p>
+            <pb n="37" facs="tcp:36134:19"/>
+            <p>For swearing by <hi>Baall,</hi> and swearing by the <hi>Temple,</hi> or by the <hi>Gold of the Temple;</hi> or swearing by the <hi>Altar,</hi> or by the <hi>Gift that was offered thereon;</hi> or swearing by the <hi>Heavens,</hi> or by the <hi>Earth;</hi> or swearing by the <hi>Head,</hi> these were all Inventions of the Jews, and practised by the blind Guides, and Heathen, who sware by their gods, in<g ref="char:EOLhyphen"/>ventions of their own; for the Law of God commanded to <hi>Swear by the Lord, and by his name,</hi> and not by any other <hi>gods</hi> or <hi>Books,</hi> or <hi>Creatures,</hi> or <hi>Heaven,</hi> or <hi>Earth, Head,</hi> or <hi>Altar,</hi> or <hi>Temple,</hi> as ye may see in many Scriptures be<g ref="char:EOLhyphen"/>fore quoted; where the Lord saith, <hi>ye shall swear by my name,</hi> and perform the Oath to the Lord, which Christ speaks of, when he saith, <hi>Swear n<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at all:</hi> and what do ye think he menti<g ref="char:EOLhyphen"/>oned that Oath for, which <hi>was to be performed to the Lord,</hi> if it were not to <hi>forbid</hi> it? he that was the <hi>Oath of the Lord,</hi> and a farther Righ<g ref="char:EOLhyphen"/>teousness than the Righteousness of the Law; for Christ did not come
+<pb n="38" facs="tcp:36134:20"/> to fulfil those vain and frivolous oaths that men commanded and practised, <hi>but the Oath that God had commanded,</hi> and cryed Woe against them that were in the practice of those Oaths which God never commanded, nor led into them: and so you may see all along it was the command of the Lord, and by his Law and Prophets, that people were to swear <hi>by the Lord, and perform their Oath unto him,</hi> which was the true Oath and Swearing which Christ forbad, much more all other Oaths.</p>
+            <p>And so then whatever men Swear by, if it be by <hi>Baall,</hi> are they not to perform their Oath to their <hi>Baall?</hi> and if they swear by the Book, are th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not to perform their Oath to the Book, or the contents of it? and if they Swear by the Altars, or the Gift on the Altar, are they not to perform their Oath to the Altar? and the Gift on the Altar? and if they swear by the Temple, are they not to perform their
+<pb n="39" facs="tcp:36134:20"/> Oath to the Temple? and if they swear by Heaven or Earth, are they not to perform their Oath to Heaven, or to the Earth? and if they swear by their Head, are not they to perform their Oath to their Head?</p>
+            <p>So are not all people, whatsoever they swear by, to perform their Oath unto it that they swear by? though all those that sware by any thing but the Lord was judged both by God and his Law and Prophets; and Christ Jesus cryed woe against those blind Guides and Fools, that taught to swear by o<g ref="char:EOLhyphen"/>ther things as aforesaid; but the Oath which was to be performed unto the Lord (and men were not to forswear themselves in) was the true Oath of God, as God commanded by his Law, which was the Oath that Christ for<g ref="char:EOLhyphen"/>bids, and sayes, <hi>swear not at all,</hi> and sets up <hi>Yea yea, and Nay nay instead thereof,</hi> &amp;c.</p>
+            <p>And the Apostle <hi>James</hi> follows Christ in his Doctrine, and saith, who
+<pb n="40" facs="tcp:36134:21"/> writes to the twelve Tribes, which were the Jews that were to <hi>swear by the Lord, and perform their Oaths to him,</hi> he saith to them; <hi>Above all things, my Brethren, swear not, neither by Hea<g ref="char:EOLhyphen"/>ven, nor by the Earth:</hi> It seems these were customary Oaths; (now he comes farther with his word) <hi>neither by any other Oath:</hi> so all Oaths are concluded here, the <hi>True,</hi> the <hi>False,</hi> and the <hi>Vain,</hi> but <hi>let your Yea be yea, and your Nay nay, least you fall into con<g ref="char:EOLhyphen"/>demnation.</hi>
+            </p>
+            <p>So this is agreeable to Christs words, <hi>Yea yea, and Nay nay, and whatsoever is more than these, cometh of evil,</hi> saith Christ, <hi>and least ye fall into condemna<g ref="char:EOLhyphen"/>tion,</hi> saith the Apostle.</p>
+            <p>So though Swearing was good in the time of the Law, as other things and Offerings, but in the time of the Gospel is forbidden; and if they swear, they <hi>go into evil, and fall into condemnation;</hi> and therefore the way to shun evil and condemnation, is to
+<pb n="41" facs="tcp:36134:21"/> keep to <hi>Yea and Nay,</hi> and <hi>not to swear at all,</hi> as Christ and the Apostle com<g ref="char:EOLhyphen"/>mands; for the Apostle saith, <hi>neither by Heaven, nor Earth, nor any other Oath;</hi> mark, <hi>any other Oath:</hi> so see what a stress the Apostle layes upon it and Christ, to keep people from swearing, and out of the evil and condemnation; though Swearing, as I said before, was good in the old time of the Law, <hi>being performed unto the Lord</hi> amongst men, for it ended the strife, and did not begin it; but Christ, who comes to <hi>perform the Oath of God,</hi> who sware by himself, he <hi>Ends the Oath</hi> that men were to swear by the Lord, and sets up <hi>Yea yea, Nay nay,</hi> instead thereof: Christ commands this to the multitude, and his Disciples; and the Apostle to the twelve Tribes which were to <hi>swear by the Lord, and perform their Oath to the Lord,</hi> as in <hi>James</hi> 5. and <hi>Mat.</hi> 5.</p>
+            <p>And therefore, as I said before, keep out of the evil and condemnation, and
+<pb n="42" facs="tcp:36134:22"/> be obedient to Christs command, and the Apostles Doctrine, <hi>not to swear at all,</hi> nor any Oath, and keep to <hi>Yea yea, Nay nay,</hi> in all your communications, and so say, and so do; not so swear, and so do, as <hi>they that shall be judged according to the Law of Liberty,</hi> James 2.12.</p>
+            <p>Now Christ sets up an order in the Church amongst the Christians, who denyes the true Oath, and forbids the swearing which was to be performed to the Lord, for the ending of Diffe<g ref="char:EOLhyphen"/>rences and Trespasses, as you may see in <hi>Levit.</hi> 19. and this is Christs order.</p>
+            <p>
+               <hi>Moreover, saith he, if thy Brother shall trespass against thee, go and tell him his fault betwixt thee and him a<g ref="char:EOLhyphen"/>lone, and if he shall hear thee, thou hast gained thy brother: But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three Witnesses every word may be esta<g ref="char:EOLhyphen"/>blished,</hi> &amp;c.</p>
+            <p>So Christ doth not say, in the mouth
+<pb n="43" facs="tcp:36134:22"/> of two or three Swearers, which he had forbidden before; but <hi>in the mouth of two or three Witnesses every thing shall be established,</hi> in his Church, which he is Head of, as in <hi>Mat.</hi> 28.</p>
+            <p>So this was the Order that Christ set up in the Church, that forbids Swearing, to end differences, and tres<g ref="char:EOLhyphen"/>passes amongst the Christians.</p>
+            <p>And the Apostle saith to the Church, <hi>Gal.</hi> 13. <hi>In the mouth of two or three Witnesses shall every word be e<g ref="char:EOLhyphen"/>stablished.</hi>
+            </p>
+            <p>And so we never read in all the Scriptures of the New Testament, that people were commanded to <hi>Swear,</hi> but <hi>forbidden.</hi>
+            </p>
+            <p>And Christ saith, in <hi>Luke</hi> 24. to them that were his Ministers, and re<g ref="char:EOLhyphen"/>ceiv'd their Ordination from him to <hi>Preach freely, as they had received free<g ref="char:EOLhyphen"/>ly,</hi> he told them, they were Witnesses of these things that he suffered.</p>
+            <p>And when they chose another Dis<g ref="char:EOLhyphen"/>ciple, and cast Lots, the <hi>Lord gave the
+<pb n="44" facs="tcp:36134:23"/> Lot to Matthias, to be a Witness of his Resurrection,</hi> Acts 1. and in <hi>Acts</hi> 2. <hi>the Apostles were Witnesses that God had raised Jesus from the dead:</hi> and in <hi>Acts</hi> 3. &amp; 15. he speaking to the Jews that had killed the <hi>Prince of Life, whereof we are witnesses,</hi> saith he: and in <hi>Acts</hi> 5. and 32. speaking of Christ, the A<g ref="char:EOLhyphen"/>postles said, <hi>We are his Witnesses of these things,</hi> and so also <hi>is the Holy Ghost whom God hath given to them that obey him:</hi> and in <hi>Acts</hi> 13. <hi>But God hath rai<g ref="char:EOLhyphen"/>sed him from the dead,</hi> to wit, <hi>Christ,</hi> and <hi>he was seen many dayes of them which came up with him from Galilee to Jerusalem, who are his Witnesses</hi> to the people: and in <hi>Acts</hi> 26. <hi>Paul</hi> in his confession, said <hi>I continued unto this day witnessing unto small and great,</hi> &amp;c. and <hi>we are Witnesses of all things which he did,</hi> to wit, <hi>both in Jury and Jerusa<g ref="char:EOLhyphen"/>lem, whom they slew ana hanged on a tree,</hi> &amp;c. So these were chosen <hi>Wit<g ref="char:EOLhyphen"/>nesses</hi> of God and Christ, <hi>Acts</hi> 19.</p>
+            <p>And so here you may see the Mini<g ref="char:EOLhyphen"/>sters
+<pb n="45" facs="tcp:36134:23"/> of Christ were not made by an Oath which were Preaches &amp; <hi>Witnesses</hi> of his Birth, Sufferings, Death and Resurrection; so they were not Swear<g ref="char:EOLhyphen"/>ers of it, or confessors of it upon Oath, but <hi>Witnesses</hi> of the Truth of it in the Truth.</p>
+            <p>And so Christ <hi>Witnessed</hi> a good con<g ref="char:EOLhyphen"/>fession before <hi>Pontius Pilate,</hi> and did not Swear a good confession, for he denyed Swearing <hi>who was Gods Oath.</hi>
+            </p>
+            <p>And the Apostle speaks to <hi>Timothy,</hi> in 2 <hi>Tim.</hi> 2.2. <hi>And the things thou hast heard of me amongst many Witnesses, the same commit thou unto faithful men, who shall be able to instruct others also:</hi> He doth not say the things thou hast heard amongst <hi>many Swearers,</hi> but <hi>Witnesses;</hi> the same commit unto faithful men, but not upon Oath, men that shall so say and so do.</p>
+            <p>And whereas the Apostle saith a<g ref="char:EOLhyphen"/>gainst <hi>an Elder, receive not an accusa<g ref="char:EOLhyphen"/>tion,</hi> but before two or three <hi>Witnesses;</hi> so he doth not say before two or three
+<pb n="46" facs="tcp:36134:24"/> Swearers, 1 <hi>Tim.</hi> 5.19.</p>
+            <p>So here was the practise of the Church according to Christs com<g ref="char:EOLhyphen"/>mand to <hi>Witness the truth,</hi> who deny<g ref="char:EOLhyphen"/>ed Swearing; and here was the practise of his Ministers to be <hi>Witnesses</hi> to the truth without Swearing &amp; what was to be <hi>Committed to the Faithful men</hi> was without an Oath, and concerning <hi>Accusations</hi> and <hi>Trespasses,</hi> it was by two or three <hi>Witnesses,</hi> and not two or three Swearers.</p>
+            <p>And when the Jews stoned <hi>Stephen</hi> to death, the <hi>Witnesses</hi> laid down their cloaths; it doth not say they sware, but <hi>Witnessed</hi> against him, <hi>Acts</hi> 9.58.</p>
+            <p>And when they put Christ to death there came <hi>two false witnesses when the High-Priest had examined Christ whe<g ref="char:EOLhyphen"/>ther he was the Christ the Son of God: &amp; Jesus said unto him thou hast said: Ne<g ref="char:EOLhyphen"/>vertheles I say unto you, hereafter ye shall see the Son of man sitting at the right hand of God, and coming in the Clouds:
+<pb n="47" facs="tcp:36134:24"/> then the High-Priest rent his Cloathes, and said, he hath spoken Blasphemy, what need have we of farther Witnesses?</hi>
+            </p>
+            <p>So these murdering Jews that <hi>cru<g ref="char:EOLhyphen"/>cified Christ,</hi> and Martyred <hi>Stephen,</hi> we do not read they received <hi>Witness</hi> a<g ref="char:EOLhyphen"/>gainst them upon <hi>Oath.</hi>
+            </p>
+            <p>And the Apostle saith, 1 <hi>Tim.</hi> 2.7. <hi>I speak the truth in Christ and lye not: a teather of the Gentiles in Faith and Ve<g ref="char:EOLhyphen"/>rity,</hi> so he doth not say I <hi>Swear</hi> the truth.</p>
+            <p>And the Apostle saith, <hi>speak every man truth to his Neighbour; and put away lying, for we are members one of another, Eph.</hi> 4. Not every man to <hi>Swear</hi> the <hi>Truth</hi> with his Neigh<g ref="char:EOLhyphen"/>bour.</p>
+            <p>So if all Christians in Christendom, so called, would so say, and so do, and <hi>speak the truth as it is in Jesus, who is the truth,</hi> and every man speak <hi>truth with his Neighbour,</hi> This would shew that they that profess themselves Christians <hi>were membes one of another,</hi>
+               <pb n="48" facs="tcp:36134:25"/> and that Christ <hi>was their Head,</hi> &amp; this would ease them of many idle words, and of all Oaths if they obeyed Christs Command, and the Apostles doctrine, in keeping yea, yea, Nay, Nay, in all their communications.</p>
+            <p>And now if you say that the Apo<g ref="char:EOLhyphen"/>stle speaks of swearing in <hi>Heb.</hi> 6. mark what was his end in it; for when God made a Promise to <hi>Abraham be<g ref="char:EOLhyphen"/>cause he could not swear by a greater, he sware by himself,</hi> &amp;c. For <hi>men ve<g ref="char:EOLhyphen"/>rily sware by the greater, and an Oath for Confirmation is to them an end of strife.</hi>
+            </p>
+            <p>So this Oath of God was a Confir<g ref="char:EOLhyphen"/>mation to them, &amp; an end of strife to them, not to us; for <hi>Witnesses</hi> end the strife in the time of the Gospel, as oaths did in the time of the <hi>Law;</hi> (so not the beginning of strife, as Oath are now) and men sware by the Lord which was the greater, and were to perform their Oath to him, which Christ ends. And so the Apostle brings this but as
+<pb n="49" facs="tcp:36134:25"/> a Similitude, <hi>wherein God willing more abundantly to shew unto the heirs of Promise; the immutability of his Coun<g ref="char:EOLhyphen"/>sel confirmed it by an Oath,</hi> &amp;c.</p>
+            <p>And in <hi>Heb.</hi> 7. where you may see the Priests were made without an oath, but Christ with an Oath, that said of him, <hi>The Lord sware, and will not repent, thou art a Priest for e<g ref="char:EOLhyphen"/>ver, after the order of Melchizedeck:</hi> so he is made a Surety of a better Te<g ref="char:EOLhyphen"/>stament, than the first; so the <hi>Old Testament</hi> has the <hi>Old things,</hi> the <hi>New Testament</hi> has the <hi>New things,</hi> as a <hi>New Priest,</hi> the <hi>New Blood,</hi> the <hi>New and living Way, Christ,</hi> who was made with an Oath, who <hi>ends the Oath of God,</hi> that men sware by to bind, them and tye their Souls up to God: so Christ is the way up to God, that sayes <hi>Swear not at all,</hi> and let your <hi>Yea be yea, and Nay nay;</hi> and the A<g ref="char:EOLhyphen"/>postles, and Martyrs, and all the Faith<g ref="char:EOLhyphen"/>ful followed him in his Doctrine, who dare not Swear, because Christ and the
+<pb n="50" facs="tcp:36134:26"/> Apostle hath forbidden it, who can<g ref="char:EOLhyphen"/>not call him <hi>Lord,</hi> unless they do as he <hi>Commands,</hi> and sayes to them.</p>
+            <p>But now if you say <hi>Abraham</hi> sware, Christ saith, <hi>Before Abraham was, I am,</hi> and he sayes, <hi>Swear not at all.</hi>
+            </p>
+            <p>And if you say <hi>Jacob</hi> and <hi>Joseph</hi> Sware; Christ Reigns over the house of <hi>Joseph</hi> and <hi>Jacob,</hi> who saith, <hi>swear not at all.</hi>
+            </p>
+            <p>And if you say <hi>Moses,</hi> the servant of God, and the Priests did swear in the time of the Law, and old Covenant, Christ ends the first Priesthood, and is the Son of God, and is above <hi>Moses</hi> the servant; and his New Testament, is a greater Testament than <hi>Moses,</hi> or the Law, and a <hi>better Surety than the blood of Bulls and Goats,</hi> who offered up his <hi>own blood himself once for all;</hi> he sayes, <hi>Swear not at all,</hi> who redeems people by his blood up to God, and they have Faith in Him, and It, and not in the Blood of Bulls and Goats.</p>
+            <p>And now if you say, that the Pro<g ref="char:EOLhyphen"/>phets
+<pb n="51" facs="tcp:36134:26"/> sware in the time of the Law, in the Old Testament, I say, Christ, which ends the Prophets and the Law in his <hi>New Testament,</hi> sayes, <hi>Swear not at all.</hi>
+            </p>
+            <p>And now if you say the Angel sware, <hi>I bring forth my first begotten into the world, saith the Lord, let all the Angels worship him,</hi> that sayes, <hi>Swear not at all;</hi> and <hi>learn of me,</hi> saith Christ, <hi>I am the Way,</hi> and <hi>this is my be<g ref="char:EOLhyphen"/>loved Son,</hi> saith God, <hi>hear ye him in whom I am well pleased,</hi> who fulfils the Oath of God, and in him God per<g ref="char:EOLhyphen"/>forms his Oath, whose righteousness is beyond that of the Law of Swearing, <hi>who is the glory of Israel,</hi> if they will receive him; and <hi>the Light of the Gen<g ref="char:EOLhyphen"/>tiles,</hi> to whom God never gave an Oath; but to the Jews, unto whom he gave the rest of the Types; and therefore should all the converted Jews and Gentiles <hi>hear Him,</hi> the Oath of God, who doth fulfil the Oath of God, and the Law, and the Prophets
+<pb n="52" facs="tcp:36134:27"/> in the old time, and all the Promises of Him, who <hi>is set up from everlasting to everlasting, the first and last,</hi> the <hi>Amen;</hi> and therefore all Christians mind Christs words, and <hi>hear</hi> and obey him that <hi>God hath sent,</hi> and believe that He is <hi>He that God hath sent,</hi> and obey his commands, for God hath perform<g ref="char:EOLhyphen"/>ed his <hi>Oath</hi> in him who came to fulfil the Oath of God, that he gave to men in the Old Testament, who saith in his new Testament, <hi>Swear not at all,</hi> but let your <hi>yea be yea, and nay nay, and what<g ref="char:EOLhyphen"/>soever is more than this cometh of evil.</hi>
+            </p>
+            <p>And so the Apostles were made <hi>able Ministers of Christ, and of the New Testament, and not of the Letter;</hi> of the Prophets and the Law in the Old Testament in which there was Swear<g ref="char:EOLhyphen"/>ing; for the <hi>Letter killeth, but the Spi<g ref="char:EOLhyphen"/>rit giveth Life.</hi>
+            </p>
+            <p>
+               <hi>But if the Ministration of the Law Written and Engraven in Stone was glo<g ref="char:EOLhyphen"/>rious, so that the Children of Israel could not stedfastly behold the Face of</hi>
+               <pb n="53" facs="tcp:36134:27"/> Moses, <hi>for the glory of his Countenance, which glory was to be done away,</hi> mark, <hi>that glory was to be done away;</hi> and do you think that <hi>Swearing</hi> and <hi>Oaths</hi> were not to be done away? if that glory was to be done away by Christ, how shall not the ministration of the Spirit be glorious? for if the <hi>Ministration of Condemnation be glorious,</hi> much more doth the <hi>Ministration of Righte<g ref="char:EOLhyphen"/>ousness exceed in glory.</hi>
+            </p>
+            <p>Now were not Oaths &amp; Offerings, and all those figurative things in this ministration of Condemnation?</p>
+            <p>For even that which was made glo<g ref="char:EOLhyphen"/>rious had no glory in this respect, by reason of the <hi>glory that excelleth,</hi> &amp;c. as you may read in 2 <hi>Cor.</hi> 2.3. so <hi>Christ takes away the first, that he may establish the second:</hi> So he takes away those Oaths and Offering commanded of God in the first Testament, and esta<g ref="char:EOLhyphen"/>blisheth the second and New Testa<g ref="char:EOLhyphen"/>ment in the Gospel, the Power of God; before the Devil was, and will be
+<pb n="54" facs="tcp:36134:28"/> when he is gone: where there is no <hi>Swearing,</hi> but <hi>Yea</hi> and <hi>Nay,</hi> and out <hi>of the mouth of two or three Witnesses shall every thing be established,</hi> saith he that forbids <hi>Swearing;</hi> and he is to be <hi>Believed,</hi> and Heard, and Obey<g ref="char:EOLhyphen"/>ed, and Built upon; and there is <hi>no other Foundation to be laid,</hi> and he is the <hi>Chief Corner Stone,</hi> and the Build<g ref="char:EOLhyphen"/>ers are not to <hi>Reject him.</hi>
+            </p>
+            <p>Now we the People of God called Quakers, who cannot Swear at all be<g ref="char:EOLhyphen"/>cause Christ forbids it, and saith, <hi>Let your yea be Yea, and nay Nay, and whatsoever is more then this cometh of Evil:</hi> And the Apostle <hi>James</hi> like<g ref="char:EOLhyphen"/>wise exhorts <hi>not to swear at all,</hi> but to keep to <hi>Yea, Yea, Nay, Nay; Least we fall into Condemnation.</hi>
+            </p>
+            <p>So we knowing that if we should Swear contrary to our Lord and Savi<g ref="char:EOLhyphen"/>ours Command; and the Apostle <hi>James</hi> his Exhortation, we should fall into Evil and Condemnation, and that no Man is able to redeem us out
+<pb n="55" facs="tcp:36134:28"/> of that Sin and Evil and Condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>And therefore we do declare to all the Magistrates upon the face of the Earth, that if we be found breaking our <hi>Yea, yea,</hi> and <hi>Nay, nay,</hi> in testi<g ref="char:EOLhyphen"/>fying the truth, when we are called before them, then let us suffer the same punishment as Perjured Persons.</p>
+            <p>So we desire that our Testimony may be taken in truth and righteous<g ref="char:EOLhyphen"/>ness, without swearing, according to the Command of Christ and the Apostle.</p>
+            <closer>
+               <dateline>
+                  <hi>Swarthmoore,</hi>
+                  <date>this 29th. of the 8th Moneth. 1675.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
